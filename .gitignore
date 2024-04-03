@@ -1,0 +1,38 @@
+# Dependency directories
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional Prettier cache
+.prettier-cache
+
+# dotenv environment variables file
+.env
+
+# macOS
+.DS_Store
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Parcel bundler cache (optional)
+.cache/
+
+# Yarn Integrity file (optional)
+.yarn-integrity
